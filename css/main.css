@@ -231,7 +231,7 @@ h4,
 .projects-list .date {
     color: var(--accent);
     font-weight: 600;
-    min-width: 80px;
+    min-width: 150px;
     flex-shrink: 0;
     text-align: left;
 }
